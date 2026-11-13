@@ -21,6 +21,10 @@
 
 O projeto conta com identidade visual completa e adaptada aos padrões nativos do Android, garantindo consistência visual desde a grade de aplicativos do sistema operacional até a tela de abertura e a interface do usuário.
 
+<p align="center">
+  <img src="Mockuuups%20Free%20Isometric%20Samsung%20Galaxy%20S26%20Mockup.png" width="550" alt="Mockup Samsung Galaxy S26" />
+</p>
+
 | Grade de Aplicativos (Android) | Tela de Abertura (Splash Screen) | Interface do App em Execução |
 | :---: | :---: | :---: |
 | <img src="docs/mockup_app_drawer.png" width="280" alt="Grade de Aplicativos com Ícone FloraCare" /> | <img src="docs/mockup_splash_screen.png" width="280" alt="Splash Screen Nativa FloraCare" /> | <img src="docs/mockup_app_screen.png" width="280" alt="Tela Principal FloraCare" /> |
